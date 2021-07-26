@@ -6,3 +6,5 @@ print("otro hola mundo por las dudas")
 if (0==0):
   print("Holaa soy Nico y soy mejor que ustedes jaja :) ")
 #comentario :)
+
+#no 
