@@ -7,5 +7,6 @@ print("otro hola mundo agregado por Marco Aurelio Acosta")
 if (0==0):
   print("Holaa soy Nico y soy mejor que ustedes jaja :) ")
 #comentario :)
-
 #no 
+
+print(" Another Hello world escrito en inglés por Jose Medina ;-) ")
